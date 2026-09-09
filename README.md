@@ -2,6 +2,8 @@
 
 A desktop tool for seismic out-of-plane (OOP) assessment of unreinforced masonry (URM) walls using the CSM-based closed-form kinematic procedure of Giordano, De Luca & Sextos (2020), with floor-spectrum demand per Lagomarsino (2015) or prEN 1998-1-2:2023 Annex C, and ground demand per 1st-gen EC8.
 
+<img width="700" alt="Capture" src="https://github.com/user-attachments/assets/bbfbf29c-0202-4b78-ad15-3e6482e10834" />
+
 ## Features
 - Pushover, capacity curve, and ADRS (demand vs. capacity) plots
 - Damage-state (DS1–DS4) assessment per Lagomarsino (2015), plus a DS5 nominal-collapse state
