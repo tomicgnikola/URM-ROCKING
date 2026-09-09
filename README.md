@@ -14,7 +14,7 @@ A desktop tool for seismic out-of-plane (OOP) assessment of unreinforced masonry
 - Windows OS
 
 ## Running
-Portable Windows executable — no installation needed. Download and extract the .7z archive and run `URM-ROCKING.exe`.
+Portable Windows executable – no installation needed. Download and extract the .7z archive and run `URM-ROCKING.exe`.
 
 ## License
 Freeware, closed-source. See the EULA for full terms. No redistribution, modification, or reverse-engineering. Provided as-is, no warranty.
