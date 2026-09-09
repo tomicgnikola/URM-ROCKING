@@ -19,7 +19,7 @@ A desktop tool for seismic out-of-plane (OOP) assessment of unreinforced masonry
 Portable Windows executable – no installation needed. Download and extract the .7z archive and run `URM-ROCKING.exe`.
 
 ## License
-Freeware, closed-source. See the EULA for full terms. No redistribution, modification, or reverse-engineering. Provided as-is, no warranty.
+Freeware, closed-source. See the EULA for full terms.
 
 ## References
 1. N. Giordano, F. De Luca, A. Sextos, *Out-of-plane closed-form solution for the seismic assessment of unreinforced masonry schools in Nepal*, Engineering Structures 203 (2020) 109548. https://doi.org/10.1016/j.engstruct.2019.109548
